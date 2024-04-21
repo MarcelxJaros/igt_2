@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "name": "Spiced Citrus Perfume",
+      "categories": ["citrus", "spice"],
+      "description": "Experience the zesty freshness of citrus with a warm spice twist.",
+      "image": "spiced_citrus_perfume.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Vanilla Orchid Body Butter",
+      "categories": ["sweet", "floral"],
+      "description": "Indulge your skin with the rich scent of vanilla blended with delicate orchid blossoms.",
+      "image": "vanilla_orchid_body_butter.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mint Mojito Lip Balm",
+      "categories": ["fresh", "mint", "tropical"],
+      "description": "Keep your lips hydrated with the refreshing taste of mint and a hint of tropical sweetness.",
+      "image": "mint_mojito_lip_balm.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rosemary Lemon Infused Oil",
+      "categories": ["citrus", "herb", "fresh"],
+      "description": "Add a burst of flavor to your dishes with this invigorating blend of rosemary and lemon.",
+      "image": "rosemary_lemon_infused_oil.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ginger Lily Shower Gel",
+      "categories": ["spice", "floral"],
+      "description": "Awaken your senses with the spicy warmth of ginger paired with the delicate scent of lilies.",
+      "image": "ginger_lily_shower_gel.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pineapple Coconut Body Scrub",
+      "categories": ["tropical", "sweet", "exfoliating"],
+      "description": "Treat your skin to a tropical getaway with the refreshing blend of pineapple and coconut, while gently exfoliating.",
+      "image": "pineapple_coconut_body_scrub.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Jasmine Green Tea Perfume",
+      "categories": ["floral", "fresh", "tea"],
+      "description": "A harmonious blend of jasmine flowers and green tea leaves, evoking a sense of tranquility and freshness.",
+      "image": "jasmine_green_tea_perfume.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sandalwood Vanilla Room Spray",
+      "categories": ["musk", "warm", "sweet", "home"],
+      "description": "Create a cozy atmosphere with the comforting blend of sandalwood and vanilla, perfect for your home.",
+      "image": "sandalwood_vanilla_room_spray.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Berry Patch Perfume",
+      "categories": ["fruity", "floral", "fresh"],
+      "description": "Embark on a journey through a sun-kissed berry patch with this delightful fruity-floral fragrance.",
+      "image": "berry_patch_perfume.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Cocoa Spice Body Lotion",
+      "categories": ["sweet", "spice", "cocoa"],
+      "description": "Nourish your skin with the comforting scent of cocoa and a hint of spicy warmth.",
+      "image": "cocoa_spice_body_lotion.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Ocean Breeze Body Mist",
+      "categories": ["fresh", "ocean", "airy"],
+      "description": "Refresh your senses with the crisp scent of ocean breeze, evoking the feeling of a seaside escape.",
+      "image": "ocean_breeze_body_mist.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Lavender Eucalyptus Bath Salts",
+      "categories": ["calming", "herbal", "relaxing"],
+      "description": "Unwind and relax with the soothing blend of lavender and eucalyptus, perfect for a calming bath experience.",
+      "image": "lavender_eucalyptus_bath_salts.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Coconut Lime Verbena Hand Cream",
+      "categories": ["tropical", "citrus", "moisturizing"],
+      "description": "Hydrate and nourish your hands with the tropical fusion of coconut, zesty lime, and fresh verbena.",
+      "image": "coconut_lime_verbena_hand_cream.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Cherry Blossom Body Wash",
+      "categories": ["floral", "fresh", "spring"],
+      "description": "Celebrate the arrival of spring with the delicate fragrance of cherry blossoms in a luxurious body wash.",
+      "image": "cherry_blossom_body_wash.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Amber Patchouli Perfume Oil",
+      "categories": ["earthy", "warm", "sensual"],
+      "description": "Embrace your sensual side with the earthy blend of amber and patchouli in a luxurious perfume oil.",
+      "image": "amber_patchouli_perfume_oil.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Honey Almond Body Scrub",
+      "categories": ["sweet", "nutty", "exfoliating"],
+      "description": "Exfoliate and moisturize your skin with the sweet and nutty blend of honey and almond in this luxurious body scrub.",
+      "image": "honey_almond_body_scrub.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Lemon Verbena Hand Soap",
+      "categories": ["citrus", "fresh", "clean"],
+      "description": "Keep your hands clean and refreshed with the uplifting scent of lemon verbena in this luxurious hand soap.",
+      "image": "lemon_verbena_hand_soap.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Peppermint Eucalyptus Shampoo",
+      "categories": ["fresh", "mint", "herbal"],
+      "description": "Invigorate your hair and scalp with the refreshing blend of peppermint and eucalyptus in this revitalizing shampoo.",
+      "image": "peppermint_eucalyptus_shampoo.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Chamomile Lavender Pillow Mist",
+      "categories": ["calming", "herbal", "sleep"],
+      "description": "Drift off into a peaceful sleep with the calming aroma of chamomile and lavender in this soothing pillow mist.",
+      "image": "chamomile_lavender_pillow_mist.jpg"
+    }
+  ]
